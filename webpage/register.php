@@ -16,7 +16,7 @@ include('connection.php');
 
 		<h2>User Details Form</h2>
 		<h4>Please, fill below fields correctly</h4>
-		<form action="register.php" method="post">
+		<form action="index.php" method="post">
 				<ul class="form">
 					<li>
 						<label for="username">Username</label>
@@ -39,7 +39,7 @@ include('connection.php');
 						<input type="password" name="confirm_pwd" id="confirm_pwd" required />
 					</li>
 					<li>
-						<input type="submit" value="Submit" /> &nbsp; Already registered? <a href="index.php">Login</a>
+						<input type="submit" value="Submit" name="Submit" /> &nbsp; Already registered? <a href="index.php">Login</a>
 					</li>
 				</ul>
 		</form>

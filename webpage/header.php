@@ -1,3 +1,3 @@
-<h1>My Blog</h1>
-<h4>In this web site you can leave any post you want.</h4>
+<h1>MY BlOG</h1>
+<h4>In This Web You Can Leave Any Post You Want!</h4>
 <hr />
